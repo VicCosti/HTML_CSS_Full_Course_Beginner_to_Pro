@@ -30,7 +30,7 @@ This lesson covers the fundamental building blocks of HTML: creating interactive
 
 | File | Description |
 |---|---|
-| [`index.html`](./index.html) | Exercise prompts and completed solutions for 1a–1g |
+| [`index.html`](./assets/index.html) | Exercise prompts and completed solutions for 1a–1g |
 
 ---
 
