@@ -4,7 +4,7 @@
 > **Type:** Hands-on Exercises
 > **Topics:** Buttons, Paragraphs, Links, Basic Layout Recreation
 
-🔗 **[View live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_1_HTML_Basics/)**
+🔗 **[View live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_1_HTML_Basics/assets/index.html)**
 
 ---
 
@@ -33,7 +33,7 @@ This lesson covers the fundamental building blocks of HTML: creating interactive
 | File | Description |
 |---|---|
 | [`index.html`](./assets/index.html) | Exercise prompts and completed solutions for 1a–1g |
-| [🔗 Live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_1_HTML_Basics/) | Rendered version of the exercises, hosted via GitHub Pages |
+| [🔗 Live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_1_HTML_Basics/assets/index.html) | Rendered version of the exercises, hosted via GitHub Pages |
 
 ---
 
