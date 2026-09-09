@@ -4,7 +4,7 @@
 > **Type:** Hands-on Exercises
 > **Topics:** CSS Selectors, Colors, Buttons, Styling Real-World UI Components
 
-🔗 **[View live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_2_CSS_Basics/)**
+🔗 **[View live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_2_CSS_Basics/assets/index.html)**
 
 ---
 
@@ -31,8 +31,8 @@ This lesson introduces core CSS styling by recreating buttons from real, well-kn
 
 | File | Description |
 |---|---|
-| [`index.html`](./index.html) | Exercise prompts and completed solutions for 2a–2f |
-| [🔗 Live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_2_CSS_Basics/) | Rendered version of the exercises, hosted via GitHub Pages |
+| [`index.html`](./assets/index.html) | Exercise prompts and completed solutions for 2a–2f |
+| [🔗 Live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_2_CSS_Basics/assets/index.html) | Rendered version of the exercises, hosted via GitHub Pages |
 
 ---
 
