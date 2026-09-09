@@ -33,7 +33,7 @@ This lesson introduces core CSS styling by recreating buttons from real, well-kn
 |---|---|
 | [`📋exercises_page_1`](./assets/img_1.png) | Exercise prompts for 2a–2e |
 | [`📋exercises_page_2`](./assets/img_2.png) | Exercise prompts for 2f |
-| [`index.html`](./assets/index.html) | Exercise prompts and completed solutions for 2a–2f |
+| [`index.html`](./assets/index.html) | Exercise completed solutions for 2a–2f |
 | [🔗 Live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_2_CSS_Basics/assets/index.html) | Rendered version of the exercises, hosted via GitHub Pages |
 
 ---
