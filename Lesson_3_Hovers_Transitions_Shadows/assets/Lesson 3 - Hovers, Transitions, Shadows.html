@@ -1,0 +1,273 @@
+<head>
+    Lesson 2 - CSS Basics
+</head>
+
+<p>
+    ___________________________________________________________________________________________
+</p>
+
+<p>
+    3a. Uber "Request now" button _ opacity (hover effect)
+</p>
+<style>
+    .uber_button
+    {
+        background-color: black;
+        color: white;
+        border: none;
+        height: 34px;
+        width: 100px;
+        border-radius: 1px;
+        cursor: grab;
+        margin-right: 10px;
+        transition: opacity 0.7s;
+    }
+    .uber_button:hover
+    {
+        opacity: 0.7;
+    }
+</style>
+<button class="uber_button">
+    Request Now
+</button>
+<p>
+    ___________________________________________________________________________________________
+</p>
+<p>
+    3b. Amazon "Add to Cart" button _ background color (hover effect)
+</p>
+<style>
+    .amazon_button
+    {
+        background-color: rgba(255, 226, 84, 0.932);
+        color: black;
+        border: none;
+        height: 34px;
+        width: 160px;
+        border-radius: 36px;
+        cursor: grab;
+        margin-right: 10px;
+        font-size: 14px;
+        transition: background-color 0.4s;
+    }
+    .amazon_button:hover
+    {
+        background-color: rgb(251, 211, 8);
+    }
+</style>
+<button class="amazon_button">
+    Add to Cart
+</button>
+<p>
+    ___________________________________________________________________________________________
+</p>
+<p>
+    3c. GitHub "Sign up" button _ shadow (hover effect)
+</p>
+<style>
+    .github_button
+    {
+        background-color: rgb(46,164,79);
+        color: white;
+        border: none;
+        height: 34px;
+        width: 78px;
+        border-radius: 6px;
+        cursor: grab;
+        margin-right: 10px;
+        font-size: 10px;
+        transition: box-shadow 0.4s;
+    }
+    .github_button:hover
+    {
+        box-shadow: 4px 4px 8px rgba(0,0,0,0.2);
+    }
+</style>
+<button class="github_button">
+    Sign up
+</button>
+<p>
+    ___________________________________________________________________________________________
+</p>
+<p>
+    3d. Bootstrap "Get started" + "Download" buttons _ background color, text color (hover effect)
+</p>
+<style>
+    .bootstrap_get_started_button
+    {
+        background-color: rgb(121,82,179);
+        color: white;
+        border: none;
+        height: 34px;
+        width: 94px;
+        border-radius: 4px;
+        cursor: grab;
+        margin-right: 10px;
+        font-size: 10px;
+        transition: background-color 0.6s;
+    }
+    .bootstrap_get_started_button:hover
+    {
+        background-color: rgb(108, 60, 181);
+    }
+    .bootstrap_download_button
+    {
+        background-color: white;
+        color: rgb(108,117,125);
+        border-color: rgb(108,117,125);
+        border-width: 2px;
+        border-radius: 4px;
+        height: 34px;
+        width: 94px;
+        transition: background-color 0.5s, color 0.5s;  
+    }
+    .bootstrap_download_button:hover
+    {
+        background-color: rgb(108,117,125);
+        color: white;
+    }
+</style>
+<button class="bootstrap_get_started_button">
+    Get started
+</button>
+<button class="bootstrap_download_button">
+    Download
+</button>
+<p>
+    ___________________________________________________________________________________________
+</p>
+<p>
+    3e. LinkedIn "Apply on company website" + "Save" buttons _ background color, border width (hover effect)
+</p>
+<style>
+    .linkedln_apply_button
+    {
+        background-color: rgb(10,102,194);
+        color: white;
+        border: none;
+        height: 32px;
+        width: 200px;
+        border-radius: 32px;
+        cursor: grab;
+        margin-right: 10px;
+        font: bold;
+        font-size: 14px;
+        transition: background-color 0.5s;
+    }
+    .linkedln_apply_button:hover
+    {
+        background-color: rgb(2, 69, 136);
+    }
+    .linkedln_save_button
+    {
+        background-color: white;
+        color: rgb(10,102,194);
+        border-color: rgb(10,102,194);
+        border-width: 1px;
+        border-radius: 32px;
+        height: 32px;
+        width: 80px;
+        cursor: grab;
+        font: bold;
+        font-size: 14px;
+        transition: background-color 0.5s, border-width 0.5s;
+    }
+    .linkedln_save_button:hover
+    {
+        background-color: rgba(10, 102, 194, 0.284);
+        border-width: 3px;
+    }
+</style>
+<button class="linkedln_apply_button">
+    Apply on company website
+</button>
+<button class="linkedln_save_button">
+    Save
+</button>
+<p>
+    ___________________________________________________________________________________________
+</p>
+<p>
+    3f. (Challenge) Continue from exercise 2f _ recreate the product card again, now adding hover effects (colors don't need to be exact)
+</p>
+<style>
+    .back_to_amazon_link
+    {
+        color: rgb(0,113,133);
+        transition: color 0.2s;
+    }
+    .back_to_amazon_link:hover
+    {
+        color: rgb(255, 153, 0);
+    }
+    .nike_black_title
+    {
+        font: bolder;
+        font-size: 20px;
+    }
+    .price_stock_text
+    {
+        color: rgb(0,118,0);
+    }
+    .add_to_cart_button_2f
+    {
+        background-color: rgb(248, 224, 101);
+        color: black;
+        border: none;
+        height: 32px;
+        width: 110px;
+        border-radius: 32px;
+        cursor: grab;
+        margin-right: 10px;
+        font: bold;
+        font-size: 14px;
+        transition: background-color 0.4s;
+    }
+    .add_to_cart_button_2f:hover
+    {
+        background-color: rgb(255, 213, 0);
+    }
+    .add_to_cart_button_2f:active
+    {
+        opacity: 0.5;
+    }
+    .buy_now_button_2f
+    {
+        background-color: rgb(255, 181, 70);
+        color: black;
+        border: none;
+        border-radius: 32px;
+        height: 32px;
+        width: 110px;
+        cursor: grab;
+        font: bold;
+        font-size: 14px;
+        transition: background-color 0.4s;
+    }
+    .buy_now_button_2f:hover
+    {
+        background-color: rgb(255, 153, 0);
+    }
+    .buy_now_button_2f:active
+    {
+        opacity: 0.5;
+    }
+</style>
+<a href="https://www.amazon.it" class="back_to_amazon_link">
+    Back to Amazon
+</a>
+<p class="nike_black_title">
+    Nike Black Running Shoes Ultra
+</p>
+<p class="price_stock_text">
+    $59 - still in stock.
+</p>
+<p>
+    Paid delivery for tomorrow, free on the weekends. 
+</p>
+<button class="add_to_cart_button_2f">
+    Add to Cart
+</button>
+<button class="buy_now_button_2f">
+    Buy Now
+</button>
