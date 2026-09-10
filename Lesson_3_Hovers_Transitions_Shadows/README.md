@@ -4,7 +4,7 @@
 > **Type:** Hands-on Exercises
 > **Topics:** `:hover`, `:active`, `transition`, `box-shadow`, `opacity`
 
-🔗 **[View live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_3_Hovers_Transitions_Shadows/)**
+🔗 **[View live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_3_Hovers_Transitions_Shadows/assets/index.html)**
 
 ---
 
@@ -63,8 +63,8 @@ Every button kept its Lesson 2 structure and base styling. On top of that, each 
 
 | File | Description |
 |---|---|
-| [`index.html`](./index.html) | Exercise prompts and completed solutions for 3a–3f |
-| [🔗 Live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_3_Hovers_Transitions_Shadows/) | Rendered version — hover over the buttons to see the transitions in action |
+| [`index.html`](./assets/index.html) | Exercise prompts and completed solutions for 3a–3f |
+| [🔗 Live demo](https://viccosti.github.io/HTML_CSS_Full_Course_Beginner_to_Pro/Lesson_3_Hovers_Transitions_Shadows/assets/index.html) | Rendered version — hover over the buttons to see the transitions in action |
 
 ---
 
